@@ -1,5 +1,6 @@
 # Openwa Starter
-Simple OpenWa Starter Template to Run Whatsapp Bot
+Simple OpenWa Starter Template to Run Whatsapp Bot.  
+This Program Run under The [@open-wa/wa-automate](https://github.com/open-wa/wa-automate-nodejs)
 
 ## Installation  
 - Before installing programs, go to setting/setting.json and change it as yours  
